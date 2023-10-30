@@ -44,6 +44,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbbine&layout=compact"><br><br>
 </div>
 <div align=center>
+	<img src="https://github-readme-stats.vercel.app/api?username=WSU9874&show_icons=true">
 	 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=80" />	
 </div>
 
@@ -58,5 +59,3 @@ WSU9874/WSU9874 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://github-readme-stats.vercel.app/api?username=WSU9874&show_icons=true">
--->
